@@ -20,7 +20,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Notepad++_Logo.png" width="40" alt="Notepad++"/>
 </div>
 
 ---
