@@ -7,7 +7,7 @@
 
 ## 🛠️ Habilidades
 
-**Linguagens e Tecnologias:**
+**Languages I work with:**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
