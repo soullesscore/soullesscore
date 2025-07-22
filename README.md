@@ -1,5 +1,4 @@
 <h1 align="center">Patonildison</h1>
-> 18 Years Old, He/Them, Bisexual
 <p align="center">
   Aspiring Roblox Developer
 </p>
