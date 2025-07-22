@@ -1,7 +1,8 @@
-<h1 align="center">soullesscore guy</h1>
+<h1 align="center">Patonildison</h1>
 
 <p align="center">
-  I like Devil May Cry and Mario 64
+  I like Devil May Cry and Mario 64 :>
+  Aspiring Roblox Developer
 </p>
 
 ---
