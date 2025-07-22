@@ -7,13 +7,11 @@
 </p>
 
 ## Social Media:
-  [**Roblox Profile**](https://roblox.com/users/2846615902/profile)
+-  [**Roblox Profile**](https://roblox.com/users/2846615902/profile)
 
-  
-  [**Twitter Profile**](https://x.com/soulcore00/)
+- [**Twitter Profile**](https://x.com/soulcore00/)
 
-  
-  [**Youtube Channel**](https://www.youtube.com/@Patonildison)
+- [**Youtube Channel**](https://www.youtube.com/@Patonildison)
 
 ---
 
