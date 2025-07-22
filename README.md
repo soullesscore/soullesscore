@@ -1,5 +1,11 @@
 <h1 align="center">Patonildison</h1>
 
+<p align="cente">
+  [Roblox Profile](roblox.com/users/2846615902/profile)
+  [Twitter Profile](https://x.com/soulcore00/)
+  [Youtube Channel](https://www.youtube.com/@Patonildison)
+</p>
+
 <p align="center">
   Aspiring Roblox Developer
 </p>
