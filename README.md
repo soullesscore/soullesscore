@@ -1,26 +1,16 @@
 <h1 align="center">Patonildison</h1>
-
+> 18 Years Old, He/Them, Bisexual
 <p align="center">
-  **Roblox Profile:** https://roblox.com/users/2846615902/profile
+  Aspiring Roblox Developer
 </p>
-<p align="center">
-  **Twitter Profile:** https://x.com/soulcore00/
-</p>
-<p align="center">
-  **Youtube Channel:** https://www.youtube.com/@Patonildison
-</p>
-
-<p align="center">
-  > 18 Years Old, He/Them, Bisexual
-</p>
-
-<p align="center">
-  **Aspiring Roblox Developer**
-</p>
-
 <p align="center">
   Average Street Fighter 3: 3rd Strike and Devil May Cry 3 player
 </p>
+
+## Social Media:
+  [**Roblox Profile**](https://roblox.com/users/2846615902/profile)
+  [**Twitter Profile**](https://x.com/soulcore00/)
+  [**Youtube Channel**](https://www.youtube.com/@Patonildison)
 
 ---
 
