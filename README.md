@@ -1,13 +1,13 @@
 <h1 align="center">Patonildison</h1>
-
+[GitHub Pages](https://pages.github.com/)
 <p align="center">
-  [Roblox Profile](#https://roblox.com/users/2846615902/profile)
+  [Roblox Profile](https://roblox.com/users/2846615902/profile)
 </p>
 <p align="center">
-  [Twitter Profile](#https://x.com/soulcore00/)
+  [Twitter Profile](https://x.com/soulcore00/)
 </p>
 <p align="center">
-  [Youtube Channel](#https://www.youtube.com/@Patonildison)
+  [Youtube Channel](https://www.youtube.com/@Patonildison)
 </p>
 
 <p align="center">
