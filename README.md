@@ -15,7 +15,7 @@
 
 ---
 
-## Languages I work with:
+## Languages:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="Lua"/>
@@ -25,7 +25,7 @@
 
 ---
 
-## Programs I use:
+### Programs I use:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
