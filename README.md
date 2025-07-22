@@ -1,8 +1,11 @@
 <h1 align="center">Patonildison</h1>
 
 <p align="center">
-  I like Devil May Cry and Mario 64 :>
   Aspiring Roblox Developer
+</p>
+
+<p align="center">
+  Average Street Fighter 3: 3rd Strike and Devil May Cry 3 player
 </p>
 
 ---
